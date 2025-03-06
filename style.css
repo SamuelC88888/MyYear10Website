@@ -1,4 +1,13 @@
+
+
 /* A simple css reset */
+.poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
 body,
 html {
     margin: 0;
@@ -77,4 +86,8 @@ img {
     color: white;
     text-align: right;
     padding: 3em 3em;
+}
+
+hi{
+    font-family: "Poetsen One", sans-serif;
 }

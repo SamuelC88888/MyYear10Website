@@ -1,5 +1,5 @@
 
-
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
 /* A simple css reset */
 .poetsen-one-regular {
     font-family: "Poetsen One", sans-serif;
@@ -14,7 +14,9 @@ html {
     padding: 0;
     height: 100%;
     /* The Font Family- Really important!! */
-    font-family: Arial, sans-serif;
+        font-family: "Emblema One", system-ui;
+        font-weight: 400;
+        font-style: normal;
     box-sizing: border-box;
 }
 

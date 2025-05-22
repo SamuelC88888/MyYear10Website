@@ -58,10 +58,11 @@ img {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 6em;
+    position: center;
     /* bring the whole section in off the sides of the page */
     width: 70%;
     /* top margin of 3em and center right/left */
-    margin: 3em auto;
+    margin: 5em auto;
 }
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
